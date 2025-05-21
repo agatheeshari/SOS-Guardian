@@ -1,3 +1,5 @@
+```Note: This document is a public overview of a private project, detailing its purpose, successes, and challenges. For source code access, contact the author.```
+
 # SOS-Guardian 🚨
 
 SOS-Guardian is a pioneering women’s safety system that leverages real-time CCTV analysis to automatically trigger SOS alerts, enhancing security in public and private spaces. Built with YOLO for object and gesture detection, PyTorch for deep learning, and audio processing for sound recognition, it detects raised hands (above shoulder level), specific distress calls (e.g., “SOS,” “help”), and weapons. Running on a GPU-enabled server or cloud, SOS-Guardian addresses the limitations of mobile-based SOS apps, which only 50% of users adopt, by providing an autonomous, always-on safety solution.
